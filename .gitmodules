@@ -10,6 +10,6 @@
 	registered = true
 [submodule "FuzzySimRes"]
 	path = FuzzySimRes
-	url = https://github.com/cran/FuzzySimRes
+	url = https://github.com/mroman-ibs/fuzzysimres
 	shallow = true
 	registered = true
