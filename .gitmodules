@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FuzzyResampling"]
 	path = FuzzyResampling
 	url = https://github.com/mroman-ibs/fuzzyresampling
-	shallow = true
-	registered = true
 [submodule "FuzzySimRes"]
 	path = FuzzySimRes
 	url = https://github.com/mroman-ibs/fuzzysimres
-	shallow = true
-	registered = true
