@@ -13,4 +13,4 @@
 	url = https://github.com/mroman-ibs/fuzzysimres
 [submodule "ZEP"]
 	path = ZEP
-	url = https://github.com/cran/ZEP
+	url = https://github.com/mroman-ibs/zep
